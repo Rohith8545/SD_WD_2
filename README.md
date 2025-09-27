@@ -15,12 +15,6 @@ This app allows users to perform **basic arithmetic operations** with a clean an
 
 ---
 
-## 📸 Screenshot
-
-![App Screenshot](https://via.placeholder.com/800x400.png?text=Calculator+App+Screenshot)
-
----
-
 ## 🛠️ Tech Stack
 
 - **HTML5** – structure of the app  
